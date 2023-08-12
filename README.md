@@ -1,4 +1,4 @@
-Hangman Game
+HANGMAN GAME
 
 
 
